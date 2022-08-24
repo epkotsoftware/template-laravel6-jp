@@ -1,0 +1,1 @@
+# template-laravel6-jp
